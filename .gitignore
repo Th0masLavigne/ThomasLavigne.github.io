@@ -5,3 +5,4 @@ _extensions/*
 docs/*
 old/*
 *.DS_Store*
+**/*.quarto_ipynb

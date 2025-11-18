@@ -33,6 +33,7 @@ quarto preview
 ```bash
 # si final
 quarto render
+quarto publish gh-pages
 ```
 
 
