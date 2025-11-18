@@ -103,5 +103,6 @@ Biomechanics, in its commonly accepted definition, consists of applying the tool
 
 ::::
 
+## {{< iconify ion:share-social-sharp >}} &nbsp; Reviewing Tasks
 
-
+Participated in reviews for the *Journal of Biomechanics* and *Applied Mathematical Modelling*.
