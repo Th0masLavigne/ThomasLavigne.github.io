@@ -1,0 +1,200 @@
+---
+title: Thomas Lavigne
+image: Resources/images/profile_pic.jpg
+bibliography: Resources/biblio/biblio_web.bib
+toc: false
+about:
+  id: hero-heading
+  template: trestles
+  links:
+    - text: "{{< iconify fa-brands:orcid >}} Orcid"
+      href: https://orcid.org/0000-0003-2690-3542
+    - text: "{{< iconify fa6-brands:google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=FYXQf_UAAAA
+    - text: "{{< iconify simple-icons:researchgate >}} Researchgate"
+      href: https://www.researchgate.net/profile/Thomas-Lavigne-2
+    - icon: github
+      text: Github
+      href: https://github.com/Th0masLavigne
+    - icon: envelope
+      text: Email
+      href: 'mailto: thomas.lavigne@ens-paris-saclay.fr'
+format:
+  html:
+    page-layout: custom
+    include-in-header:
+      - text: |
+          <style>
+            /* TARGETS THE ABOUT SECTION WRAPPER */
+            .about-template-trestles {
+              /* Remove vertical centering spacing and force to the top */
+              padding-top: 10px !important; 
+              min-height: auto !important; /* Prevents it from forcing a minimum screen height */
+              padding-bottom: 10px !important; /* Reduce bottom padding as well */
+            }
+
+            /* TARGETS THE HERO CONTENT ITSELF (Your Name, Image, Links) */
+            #hero-heading {
+              /* Ensure the internal content has no large top margin */
+              margin-top: 0 !important; 
+            }
+          </style>
+      - text: |
+          <meta name="google-site-verification" content="lyL1XECA_aIiJN9ihH1tHYGqzCDubMyGXCILlJTVjZw" />
+---
+
+
+
+
+  <style>
+    body {
+      background-image: url("Resources/images/backrgound_arm2.png");
+      background-size: cover;/*contain*/
+      background-position: center -40px;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      margin: 0;    
+    }
+      .page_contente {
+      /*background-color: rgba(255, 255, 255, 1);*/
+      /*left: 0;
+      width: 100%;*/
+      /* padding: 200px; */
+      /*margin: 0;*/
+      margin-top: -5vh; /* This ensures the white background starts at the middle of the page */
+    }
+  </style>
+
+
+
+
+:::::{.page_contente}
+:::{#hero-heading}
+
+# Welcome,
+
+I am Thomas Lavigne, a researcher in **Biomechanics** and **Computational Modeling**, specializing in the **poromechanical and multiscale modeling of soft biological tissues**. My work focused on characterizing the complex time-dependent mechanical behavior of tissues like human skin and skeletal muscle, with direct applications in fields such as pressure ulcer prevention and tissue engineering. 
+
+---
+
+Former student of **École Normale Supérieure (ENS) Paris-Saclay** (mechanical engineering department), I recently earned a **Dual Doctoral Degree** (*Docteur en Sciences de l'Ingénieur*) through a **Co-tutelle PhD (2022-2025)** entitled: *Biomechanical modelling of human skin: a hierarchical porous media framework*. This PhD work allied theroetical developments, numerical assessments and experimental campaigns, along with international collaboration and dissemination, with a special care on reproducibility. It successfully allowed to couple mechanics and biology (microvascular response) using porous media framework, providing insights on the time-dependent response of human skin as well as ischemic and hyperemic responses to an external load without introducing any neurological effects. This program was a joint effort between:
+
+- **Université du Luxembourg**
+- **École Nationale Supérieure des Arts et Métiers (ENSAM) Paris**
+
+This work was recognized with the **2025 Excellent Thesis Award** from the University of Luxembourg and proposed for the FNR Excellent Thesis Award, Prix Bézier (ENSAM), and more recently proposed for a potential participation at Prix Tarrach from *Les Amis du Luxembourg*. 
+
+---
+
+More recently, I am part of post-doctoral research projects:
+
+- **Post-Doctoral Position (09/2025–11/2025)**: A three-month appointment at **I2M Bordeaux**, dedicated to **multiscale modeling, HPC software install and porous fluids**.
+- **CNRS ANR Rosaly Post-Doctoral Researcher (12/2025–2027)**: A two-year project focused on the **mechanical characterization of hydrogels** intended for use in advanced cell culture systems (LMS, Polytechnique).
+
+---
+
+As part of the biomechanical team of the [Legato Team](https://sites.google.com/view/legato-team/team/luxembourg-team/thomas-lavigne) and [Porous Modelling team at I2M](https://www.bdx-poromechanics.com/involved-persons.html), I designed tutorials and symposiums to help in the learning and use of tools such as GIT and FEniCSx. I also actively participated in studies on breast chemotherapia (Unversity of Leeds, R. Collet, PhD), brain growth (IMT Atlantique, A. Kerachni), brain porous modelling (University of Luxembourg, M. Abbad Andaloussi), microfluidic chips design and simulations (Université de Bordeaux, H. Pi and M. Laccour). 
+
+---
+
+You can learn more about my background in my <a href="Resources/documents/CV.pdf">[CV]</a>. 
+
+:::: {style='margin-top: 1em;'}
+::::
+
+::: {.line}
+
+<div style="border-top: 1px solid #00436d; width: 45%; margin: 0 auto;"></div>
+
+:::
+
+:::: {style='margin-top: 0em;'}
+::::
+
+:::: {.columns}
+
+::: {.column width="15%"}
+
+:::
+
+::: {.column width="80%"}
+
+<!-- ![](Resources/Images/Background_Lungs_mesh_2.png){width="80%" style="display: block; margin: 0 auto;"}
+
+:::: {style='margin-top: 3em;'}
+:::: -->
+
+<!-- <iframe width="100%" height="550" src="Resources/AR/3D_lung_AR.html"></IFRAME> -->
+
+:::{.carousel}
+<div class="carousel-slide">
+  <img src="Resources/images/ETA_background - Copie.jpeg" alt="PhD">
+  <div class="carousel-titlecaption"><b>PhD Graphical Abstract</b> <br> 
+  <span style="font-size: smaller;font-weight: 300">Coupling biology in mechanics through porous modelling for Human skin.</span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="Resources/images/diverse.png" alt="diverse">
+  <div class="carousel-titlecaption"><b>Diverse works</b> <br> 
+  <span style="font-size: smaller;font-weight: 300">Assembly of diverse works. To be refined.</span></div>
+</div>
+:::
+
+:::{.carousel-nav}
+<span class="prev">&#10094;</span>
+<span class="next">&#10095;</span>
+:::
+
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>
+
+:::
+
+::::
+
+:::
+:::::

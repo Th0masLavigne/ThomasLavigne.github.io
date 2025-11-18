@@ -1,0 +1,7 @@
+/.quarto/
+public/*
+_site/*
+_extensions/*
+docs/*
+old/*
+*.DS_Store*

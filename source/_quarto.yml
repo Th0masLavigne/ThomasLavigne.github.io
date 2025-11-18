@@ -1,0 +1,116 @@
+project:
+  type: website
+  resources:
+    - "Resources"
+    - "style.css"
+    - "style_site.scss"
+    - "style_site_dark.scss"
+    - "Hal_css.css"
+    - "Hal_css_dark.css"
+    - "custom_hal.js"
+    - "carousel.js"
+  output-dir: docs
+
+website:
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+  open-graph: true
+  title: "Thomas Lavigne"
+  image: Resources/images/profile_pic.jpg
+  favicon: Resources/images/profile_pic.jpg
+  description: "Thomas Lavigne, PHD, personal webpage"
+  site-url: https://Th0masLavigne.github.io/
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: CV
+        href: Resources/documents/CV.pdf
+        target: _blank
+      - icon: github
+        href: https://github.com/Th0masLavigne
+  # navbar:
+  #   background: primary
+  #   search: true
+  #   right:
+  #     - text: "Home"
+  #       href: index.qmd
+  #     - sidebar:tutorials
+  #     - sidebar:howto
+  #     - sidebar:fundamentals
+  #     - sidebar:reference
+  # sidebar:
+  #   - id: tutorials
+  #     title: "Tutorials"
+  #     style: "docked"
+  #     background: light
+  #     collapse-level: 2
+  #     contents: 
+  #       # navigation items
+        
+  #   - id: howto
+  #     title: "How-To"
+  #     contents:
+  #       # navigation items
+        
+  #   - id: fundamentals
+  #     title: "Fundamentals"
+  #     contents:
+  #       # navigation items
+        
+  #   - id: reference
+  #     title: "Reference"
+  #     contents: 
+  #       # navigation items
+  page-footer: 
+    right: |
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li>📍 Institut Polytechnique de Paris</li>
+        <li>📧 <a href="mailto:thomas.lavigne@ens-paris-saclay.fr">thomas.lavigne@ens-paris-saclay.fr</a></li>
+      </ul>
+
+    center:
+      - icon: github
+        href: https://github.com/Th0masLavigne
+      - icon: twitter
+        href: https://x.com/Thomas_Lavigne_
+      - icon: linkedin
+        href: https://www.linkedin.com/in/thomas-l-7a6608109/
+      - text: "{{< iconify fa-brands:orcid >}}"
+        href: https://orcid.org/0000-0003-2690-3542
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=FYXQf_UAAAAJ
+      - text: "{{< iconify simple-icons:researchgate >}}"
+        href: https://www.researchgate.net/profile/Thomas-Lavigne-2
+
+    left: |
+      <small>
+        &copy; 2025 Thomas Lavigne — All rights reserved.<br>
+        <a href="https://quarto.org/">Built with Quarto</a>
+      </small>
+
+  # reader-mode: true
+  # repo-url: https://github.com/Th0masLavigne/Resume.git
+  # repo-actions: [edit, source, issue]
+
+
+# https://quarto.org/docs/output-formats/html-themes.html
+format:
+  html:
+    email-obfuscation: javascript
+    theme:
+      light: [flatly,style_site.scss]
+      dark: [darkly,style_site_dark.scss]
+    respect-user-color-scheme: true
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    include-after-body:
+      text: |
+        <script type="application/javascript" src="custom_hal.js"></script>
+        <script type="application/javascript" src="carousel.js"></script>
+
+header-includes:
+  - <script src="carousel.js"></script>
