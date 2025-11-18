@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Thomas Lavigne</title>
+<link>https://ThomasLavigne.github.io/Research.html</link>
+<atom:link href="https://ThomasLavigne.github.io/Research.xml" rel="self" type="application/rss+xml"/>
+<description>Thomas Lavigne, PHD, personal webpage</description>
+<image>
+<url>https://ThomasLavigne.github.io/Resources/images/profile_pic.jpg</url>
+<title>Thomas Lavigne</title>
+<link>https://ThomasLavigne.github.io/Research.html</link>
+</image>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Wed, 10 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ICCB 2025</title>
+  <link>https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week, my co-authors <a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a> and <a href="https://mgenet.github.io/">Martin Genet</a>, my collegues Jean-Marc Allain, Felipe Álvarez-Barrientos, Haotian Xiao, and Julien Bonnafé, and I attended the <a href="https://iccb2025.org/">2025 ICCB</a> conference. <a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a> and I both presented our work towards getting a real-time digital twin of the lungs <span class="citation" data-cites="daby-seesaramFiniteElementNeural2025 skardovaFiniteElementNeural2025">(<strong>daby-seesaramFiniteElementNeural2025?</strong>; <strong>skardovaFiniteElementNeural2025?</strong>)</span>.</p>
+<p>Meanwhile, <a href="https://mgenet.github.io/">Martin Genet</a> chaired the mini-symposium “<strong>MS08 - 1: Modeling the respiratory system: current trends and clinical opportunities</strong>” he co-organised.</p>
+<p><img src="https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/ICCB_2.jpg" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%"> <img src="https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/ICCB_3.jpeg" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%"></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>News</category>
+  <guid>https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/</guid>
+  <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/ICCB_1.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Invited speaker at the RICAM of the Austrian Academy of Sciences</title>
+  <link>https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today I was invited to give a seminar at the Johann Radon Institute for Computational and Applied Mathematics (<a href="https://www.oeaw.ac.at/ricam/">RICAM</a>) of the Austrian Academy of Sciences, in the Computational Methods for PDEs group. I had the opportunity to present our work on reduced-order modelling and recent hybridisation of the PGD with the Finite Element Neural Network Interpolation (FENNI) framework <span class="citation" data-cites="daby-seesaramFiniteElementNeural2024 skardovaFiniteElementNeural2024">(<strong>daby-seesaramFiniteElementNeural2024?</strong>; <strong>skardovaFiniteElementNeural2024?</strong>)</span>.</p>
+<p>The shown exemples used our open-source code, <a href="https://pypi.org/project/NeuROM-Py/">NeuROM</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/RICAM.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>News</category>
+  <guid>https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/</guid>
+  <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/OAW.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+</channel>
+</rss>

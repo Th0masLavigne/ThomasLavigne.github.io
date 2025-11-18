@@ -12,5 +12,89 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2024/2024-10-22-RICAM/index.html",
+    "href": "posts/2024/2024-10-22-RICAM/index.html",
+    "title": "Invited speaker at the RICAM of the Austrian Academy of Sciences",
+    "section": "",
+    "text": "Today I was invited to give a seminar at the Johann Radon Institute for Computational and Applied Mathematics (RICAM) of the Austrian Academy of Sciences, in the Computational Methods for PDEs group. I had the opportunity to present our work on reduced-order modelling and recent hybridisation of the PGD with the Finite Element Neural Network Interpolation (FENNI) framework (daby-seesaramFiniteElementNeural2024?; skardovaFiniteElementNeural2024?).\nThe shown exemples used our open-source code, NeuROM\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching activities",
+    "section": "",
+    "text": "Teaching in BME Program and Apprentices at Ecole National Supérieure d’Arts et Métiers Paris\n\n\n\n\n\n\n\n\n\n\n2022 - 2025\n\nL3: Mathematics,\nM1: Mechanics,\nM2: Dynamics, Informatics, Experimental Methods.\n\n\n\n\n\n\n\nTutored sessions for students in difficulty at École Normale Supérieure Paris Saclay\n\n\n\n\n2019 - 2020\n\nPhysics, Mathematics, Mechanics, Practical Works, Reporting methods.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasse Préparatoire aux grandes écoles\n\n\n\n\n\n\n\n\n\n\n\n\nPhysique-chimie PSI-PSI* Concours X, ENS, CentraleSupélec, Mines-Ponts, CCINP\n\nWriting a physics book for undergraduate students (Classes Préparatoires aux Grandes Écoles)\nPhysics problems, corrections, and comments, helping students prepare for their entrance exams to prestigious universities (French “Grandes Écoles”).\n\n\n\n\n\n\n\n\n\n\n\n\n\n2018 - 2020: Oral examiner in class preparing for competitive national entrance exams (Physics, Chemistry and Engineering Science) – Lycée Hoche, Versailles, France\n\n\n\n\n\nAdvanced-level courses\nI designed notebooks about FEniCSx and gmsh for finite elemnt modelling and their installation (locally, using docker or spack for HPC). These are available on my github and at this link.\n\nFEniCSx & GMSH Tutorial Website (v0.9.0)\nFEniCSx & GMSH Tutorial Repository (v0.9.0)\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "News.html",
+    "href": "News.html",
+    "title": "News",
+    "section": "",
+    "text": "ICCB 2025\n\n\n\n\n\n\n\n\nSep 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInvited speaker at the RICAM of the Austrian Academy of Sciences\n\n\n\n\n\n\n\n\nOct 22, 2024\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ICCB 2025\n\n\n\n\n\n\n\n\nSep 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInvited speaker at the RICAM of the Austrian Academy of Sciences\n\n\n\n\n\n\n\n\nOct 22, 2024\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "Publication.html#publications",
+    "href": "Publication.html#publications",
+    "title": "Publications",
+    "section": "   Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "Publication.html#work-in-progress",
+    "href": "Publication.html#work-in-progress",
+    "title": "Publications",
+    "section": "   Work in progress",
+    "text": "Work in progress\n\nPorous Liquides: When the “Matrix” is a highly viscous fluid\nAuthors: T. Lavigne, G. Sciumè\nThis is ongoing work. This section will be refined soon."
+  },
+  {
+    "objectID": "Publication.html#public-outreach",
+    "href": "Publication.html#public-outreach",
+    "title": "Publications",
+    "section": "   Public outreach",
+    "text": "Public outreach\n\n\n\n\n Dissemination PhD Slides\nYou can find here work in progress for dissemination of my PhD research to a broader public.\n\n\n\n Slides\n\n\n\n Slides 3min\n\n\n\n\n\n Articles in Eduscol [French]\n\nCaractérisation mécanique d’un tissu mou : le muscle passif\n\n\n\n\n\n\n\n\n\n\n\nThis resource aims to present the scientific approach in biomechanics for modeling a soft tissue, namely muscle, at the macroscopic scale subjected to external loading (tension/compression). It was designed to complement the resource “Introduction to Biomechanics,” which covers several important points of this discipline. The present resource is based on research work conducted during the authors’ master’s degree in biomechanics, as well as their master 1 internships, master 2 thesis, and pre-doctoral research year. click here\n\n\n\n\nIntroduction à la Biomécanique\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiomechanics, in its commonly accepted definition, consists of applying the tools, methods, and principles of mechanics to biological tissues and organs and their associated medical problems. It is an ancient discipline, studied since antiquity, but it became established as a distinct field in its own right during the 1960s and 1970s. As a varied discipline at the intersection of multiple subjects and methods, it is difficult to approach this theme using a single method. Thus, this resource aims to present the main challenges, their associated analyses and measurement tools, and their clinical applications. It is therefore not an exhaustive list of the topics studied, but an approach to the scientific methodology centered around the biomechanical question. First, we will present what historically founded the domain, namely the analysis of locomotion and movement. Second, we will focus on the effects of forces and deformations on tissues and the biological processes involved. Finally, we will consider the, primarily clinical, applications of the developed tools, and their place and potential in the current treatment of pathologies. The resource “Mechanical characterization of a soft tissue: passive muscle” specifically addresses the process of modeling a complex tissue using the tools of continuum mechanics. click here"
+  },
+  {
+    "objectID": "Talks.html#incoming-talks",
+    "href": "Talks.html#incoming-talks",
+    "title": "Talks (selection)",
+    "section": "   Incoming talks",
+    "text": "Incoming talks"
+  },
+  {
+    "objectID": "Talks.html#past-talks",
+    "href": "Talks.html#past-talks",
+    "title": "Talks (selection)",
+    "section": "   Past talks",
+    "text": "Past talks\n\n          Conferences\n\n\n\n\n\nEPUAP - European Pressure Ulcer Advisory Panel (website)\nLausanne, Switzerland, 25th-27th of September 2024\nTitle: Poro-elasticity to capture the time-dependent mechanical behavior of in vivo human skin during an extension test.\nAuthors: T. Lavigne, et al.\n\n\nBSSM - British Society For Strain Measurement (website)\nParis, France, 20th of August-1st of September 2023\nTitle: FE-based Heterogeneous Digital Volume Correlation to Measure Large Deformations of Breast’s Soft Tissues\nAuthors: T. Lavigne, A. Mazier, A. Perney, S.P.A. Bordas, F. Hild, J. Lengiewicz\n\n\n\n Slides\n\n\n\n Abstract\n\n\n\n\n\n\n\n\nCMBBE - Computer Methods in Biomechanics and Biomedical Engineering (website)\nParis, France, 3rd-5th of May 2023\nTitle: Modelling the apparent viscoelastic behaviour of passive muscle tissue under confined compression using a poroelastic framework\nAuthors: T. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan\n\n\n\n Abstract\n\n\n\n\n\n\n\n\nWCB - World Congress of Biomechanics (website)\nTaïpei, Taïwan, 10th-14th of July 2022\nTitle: Modelling the apparent viscoelastic behaviour of passive muscle tissue under confined compression using a poroelastic framework\nAuthors: T. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan\n\n\n\n Slides\n\n\n\n Abstract\n\n\n\nTitle: Towards real-time patient-specific breast simulations: from full-field information to surrogate model\nAuthors: T. Lavigne, J. Lengiewicz, S. Deshpande, S. Urcun, S. Bordas, A. Mazier\n\n\n\n Abstract\n\n\n\n\n\nSB - Société de Biomécanique (website)\nSaint-Étienne, France, 27th of October 2021\nTitle: The possible role of poro-elasticity in the apparent viscoelastic behaviour of passive muscle: a case study\nAuthors: T. Lavigne, T. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, P-Y. Rohan.\n\n\n\n Abstract\n\n\n\n\n\n          Symposiums and Mini-Conferences\n\n\n\n\n\nF2M - Fédération Francilienne de Mécanique (website)\nIle-de-France, France, 2023 & 2024\nTitle 1: Multiscale modelling of the muscle tissue.\nTitle 2: Modelling the apparent viscoelastic behaviour of passive muscle tissue under confined compression using a poroelastic framework.\nAuthors: T. Lavigne, et al."
+  },
+  {
+    "objectID": "Talks.html#co-organised-symposiums-and-mini-conferences",
+    "href": "Talks.html#co-organised-symposiums-and-mini-conferences",
+    "title": "Talks (selection)",
+    "section": "   Co-organised Symposiums and Mini-Conferences",
+    "text": "Co-organised Symposiums and Mini-Conferences\n\n\n\n\nOrganised FEniCSx-GMSH tutorials at I2M Bordeaux (website)\nTalence, France, September 2024\nTitle: Tutorials for the install and use of FEniCSx.\nAuthors: T. Lavigne, G. Sciumè, S. Urcun, M. Abbad Andaloussi.\n\n\n\n Website"
+  },
+  {
+    "objectID": "posts/2025/2025-09-10-ICCB/index.html",
+    "href": "posts/2025/2025-09-10-ICCB/index.html",
+    "title": "ICCB 2025",
+    "section": "",
+    "text": "This week, my co-authors Kateřina Škardová and Martin Genet, my collegues Jean-Marc Allain, Felipe Álvarez-Barrientos, Haotian Xiao, and Julien Bonnafé, and I attended the 2025 ICCB conference. Kateřina Škardová and I both presented our work towards getting a real-time digital twin of the lungs (daby-seesaramFiniteElementNeural2025?; skardovaFiniteElementNeural2025?).\nMeanwhile, Martin Genet chaired the mini-symposium “MS08 - 1: Modeling the respiratory system: current trends and clinical opportunities” he co-organised.\n \n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Research Appointments",
+    "section": "",
+    "text": "12/2025-11/2027 - Post Doctoral Researcher ANR Rosaly: Simulation of the mechanical behavior of hydrogels\n\n\nAt: Laboratoire de Mécaniqude des Solides, Institut Polytechnique de Paris, UMR 7649, CNRS\nWith: Jean-Marc Allain\nProject: The Postdoctoral Researcher (M/F) will focus on simulating the mechanical behavior of collagen hydrogels using poroelasticity models implemented in FEniCS. The core work involves using experimental data to identify the material’s mechanical properties based on its fabrication conditions. A key objective is the enhancement of these models to incorporate the complex influence of contractile cells within the gel, specifically including their mechanoperception response. Further development will integrate microstructural information to accurately describe how the collagen fibers move and reorient under mechanical load.\n\n\n\n\n\n\n\n\n\n09/2025-11/2025 - Post Doctoral Researcher ANR MATISSE: Simulation of porous liquids and HPC installations\n\n\nAt: Institut de mécanique et d’ingénierie, Université de Bordeaux INP, UMR 5295, CNRS\nWith: Jean-Marc Allain\nProject: The Postdoctoral Researcher will primarily focus on simulating the mechanical behavior of porous fluids (e.g., poroelastic models for fluids) using the advanced finite element software FEniCSx. In addition to leading these simulations, the Postdoc will provide essential computational and numerical support to four specific PhD students (S. Pastore, C. Cornillon, M. Laccour, and L. Liquette) to help them overcome technical hurdles in their research. A key institutional responsibility involves installing and configuring the FEniCSx environment on the available MCIA HPC (High-Performance Computing) cluster and creating a comprehensive installation and usage procedure document for the system.\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\n2022-2025 - Co-tutelle PhD (ENSAM, Université du Luxembourg)\n\nAFR Fond National de la Recherche du Luxembourg Grant.\n\n\nTitle: Biomechanical Response of Human Skin: A Hierarchical Porous Media Framework. Proposed for Prix Bézier (ENSAM) and the Tarrach Price from Les Amis de l’Université du Luxembourg. Awarded the 2025 Excellent Thesis Award (University of Luxembourg).\n\n\n\n\n\n\n\n\n2021-2022 - Ecole Normale Supérieure (ENS) Paris-Saclay & Université du Luxembourg\n\nPre-doctoral Research Year Abroad (ARPE, ENS Program) at Legato Team: Focus on breast and soft tissue biomechanics: hyperelasticity, contact mechanics, micro-CT, image processing, and digital volume correlation.\n\n\n\nSupervisors: J. Lengiewicz, S. P-A. Bordas, A. Mazier, S. Desphandes\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n \n\n\n\n2020-2021 - École Nationale Supérieure des Arts et Métiers (ENSAM) / BME Master’s Program\n\nMSc in Biomechanics Biomechanical Response of Human Skin: Mechanical science, Continuum Mechanics, Dynamics, Biomaterial, Biocell, Anatomy, Experimental Methods.\n\n\n\nThesis: Poromechanical modeling of muscle tissue to account for its apparent viscoelastic behaviour.\nAt: Institut de Biomécanique Humaine Georges Charpak (IBHGC), Paris\nSupervisors: P-Y. Rohan, G. Sciumè, H. Pillet\n\n\n\n\n\n\n\n\n\n\n2018-2022 - Ecole Normale Supérieure (ENS) Paris-Saclay Student\n\n\nMaster 1 in Mechanical Sciences and Manufacturing. 2019-2020 – (Rank: 1/18)\n\nThesis: Numerical Dummy for impact and concussion risk in rugby\nAt: Institut de Biomécanique Humaine Georges Charpak (IBHGC), Paris\nSupervisors: S. Laporte, B. Sandoz\n\nBachelor’s degree in Engineering Sciences (SAPHIRE) Received with honours (Rank: 12/70)\n\nThesis: Poynting Effect of 3D printed metal pantographs: in situ experiment and digital volume correlation.\nAt: Laboratoire de Mécanique Paris-Saclay\nSupervisor: F. Hild\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2016-2018 - Classe préparatoire PCSI-PSI* Lycée Hoche Versailles\n\nIntensive two-year course preparing for highly competitive national entrance exams to the French Grandes Écoles\n\n\n\n\n\n\n\nJune 2016, Lycée Emilie de Breteuil: General Baccalauréat (A-level equivalent): Engineering Sciences major. (High honours)\n\n\n\n Back to top"
   }
 ]

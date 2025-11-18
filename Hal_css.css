@@ -7,7 +7,7 @@
 #res_script{
 	border:0;
 	background-color:white;
-	color:rgb(23, 15, 57);
+	color:rgb(60, 53, 91);
 }
 
 /*Titre*/
@@ -17,7 +17,7 @@ div.ZoneTitreResultat
 }
 /* classes pour les rubriques pour certains type de classement (type de publi, année de publi) */ 
 .Rubrique{
-	border-bottom: 2px solid rgb(23, 15, 57);
+	border-bottom: 2px solid rgb(60, 53, 91);
 }
 
 /*nom du champ*/
@@ -33,11 +33,11 @@ div.ZoneTitreResultat
 /* classe pour les titres */ 
 .Titre, .Titre a {
    font-weight:bold;
-	color:rgb(23, 15, 57);
+	color:rgb(60, 53, 91);
 }
 
 .annee_publi, .typdoc, .Rubrique, .SousRubrique {
-    color:rgb(23, 15, 57);
+    color:rgb(60, 53, 91);
 }
 
 .NoticeRes {
@@ -49,21 +49,21 @@ div.ZoneTitreResultat
 
 
 .LienBibtexACoteFulltext, .DOI {
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
 }
 
 a:link { 
     text-decoration: none; 
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
   } 
   a:visited { 
     text-decoration: none; 
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
 
   } 
   a:hover { 
     text-decoration: underline; 
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
 	font-weight:bold;
 
   } 
