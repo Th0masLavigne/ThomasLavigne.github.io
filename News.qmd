@@ -1,0 +1,20 @@
+---
+title: "News"
+title-block-banner: false
+page-layout: full
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  max-items: 50
+  image-align: right
+  image-height: 125pt
+  max-description-length: 125
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: true
+---
+
+:::: {style='margin-top: 3em;'}
+::::

@@ -1,0 +1,281 @@
+---
+title: Talks (selection)
+format:
+  html:
+    page-layout: full
+---
+
+:::: {style='margin-top: 3em;'}
+::::
+
+## {{< iconify fa-solid:bullhorn >}} &nbsp; Incoming talks
+
+:::: {style='margin-top: 3em;'}
+::::
+
+
+
+## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Past talks
+
+
+
+
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conferences
+:::: {style='margin-top: 2em;'}
+::::
+
+
+::: {.talk-card}
+### EPUAP -  European Pressure Ulcer Advisory Panel ([website](https://www.bing.com/search?q=epuap+2024&cvid=8b741bde2a3e4d5dab42fc1dd05d03bf&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhBFGDwyBggDEEUYPNIBCDE5NDFqMGo0qAIIsAIB&FORM=ANAB01&PC=DCTS))
+*Lausanne, Switzerland, 25th-27th of September 2024*
+
+**Title:** Poro-elasticity to capture the time-dependent mechanical behavior of in vivo human skin during an extension test. 
+
+**Authors:** [T. Lavigne](index.qmd), *et al.*
+
+:::
+
+::: {.talk-card}
+### BSSM -  British Society For Strain Measurement ([website](https://www.bssm.org/events/conference/))
+*Paris, France, 20th of August-1st of September 2023*
+
+**Title:** FE-based Heterogeneous Digital Volume Correlation to Measure Large Deformations of Breast’s Soft Tissues
+
+**Authors:** [T. Lavigne](index.qmd), A. Mazier, A. Perney, S.P.A. Bordas, F. Hild, J. Lengiewicz
+
+:::: {.columns}
+
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](Resources/documents/BSSM2023_LAVIGNE.pdf){.button target="_blank"}
+
+:::
+:::
+
+::: {.column width="80pt"}
+
+::: {.button}
+
+[<iconify-icon icon="fa-regular:file" aria-label="Code"></iconify-icon> Abstract](Resources/documents/British_Society_LAVIGNE.pdf){.button target="_blank"}
+
+:::
+
+:::
+
+::::
+:::
+
+
+:::: {style='margin-top: 2em;'}
+::::
+
+::: {.talk-card}
+### CMBBE -  Computer Methods in Biomechanics and Biomedical Engineering ([website](https://www.cmbbe-symposium.com/2023/))
+*Paris, France, 3rd-5th of May 2023*
+
+**Title:** Modelling the apparent viscoelastic behaviour of passive muscle tissue under confined compression using a poroelastic framework
+
+**Authors:** [T. Lavigne](index.qmd), G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan
+
+:::: {.columns}
+
+
+::: {.column width="80pt"}
+
+::: {.button}
+
+[<iconify-icon icon="fa-regular:file" aria-label="Code"></iconify-icon> Abstract](https://www.cmbbe-symposium.com/2023/wp-content/uploads/sites/14/2023/04/CMBBE23_Abstract_book_posters_small.pdf){.button target="_blank"}
+
+:::
+
+:::
+
+::::
+:::
+
+:::: {style='margin-top: 2em;'}
+::::
+
+
+::: {.talk-card}
+### WCB - World Congress of Biomechanics ([website](https://www.wcb2022.com/))
+*Taïpei, Taïwan, 10th-14th of July 2022*
+
+**Title:** Modelling the apparent viscoelastic behaviour of passive muscle tissue under confined compression using a poroelastic framework
+
+**Authors:** [T. Lavigne](index.qmd), G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, P-Y. Rohan
+
+:::: {.columns}
+
+
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](Resources/documents/WCB_2022_Escarres.pdf){.button target="_blank"}
+
+:::
+:::
+
+::: {.column width="80pt"}
+
+::: {.button}
+
+[<iconify-icon icon="fa-regular:file" aria-label="Code"></iconify-icon> Abstract](Resources/documents/WCB2022-Abstract-LAVIGNE.pdf){.button target="_blank"}
+
+:::
+
+:::
+
+
+
+
+
+::::
+
+**Title:** Towards real-time patient-specific breast simulations: from full-field information to surrogate model
+
+**Authors:** [T. Lavigne](index.qmd), J. Lengiewicz, S. Deshpande, S. Urcun, S. Bordas, A. Mazier
+
+
+:::: {.columns}
+
+::: {.column width="80pt"}
+
+::: {.button}
+
+[<iconify-icon icon="fa-regular:file" aria-label="Code"></iconify-icon> Abstract](Resources/documents/WCB2022-Abstract.pdf){.button target="_blank"}
+
+:::
+
+:::
+
+
+::::
+
+:::
+
+
+
+::: {.talk-card}
+### SB - Société de Biomécanique ([website](https://www.biomecanique.org/fr/notre-congres-annuel/historique-congres/219-2021-46e-congres-sb))
+*Saint-Étienne, France, 27th of October 2021*
+
+**Title:** The possible role of poro-elasticity in the apparent viscoelastic behaviour of passive muscle: a case study
+
+**Authors:** [T. Lavigne](index.qmd), T. Lavigne, G. Sciumè, S. Laporte, H. Pillet, S. Urcun, P-Y. Rohan.
+
+
+:::: {.columns}
+
+::: {.column width="80pt"}
+
+::: {.button}
+
+[<iconify-icon icon="fa-regular:file" aria-label="Code"></iconify-icon> Abstract](https://doi.org/10.1080/10255842.2021.1978758){.button target="_blank"}
+
+:::
+
+:::
+
+
+::::
+
+:::
+
+
+
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Symposiums and Mini-Conferences
+:::: {style='margin-top: 2em;'}
+::::
+
+
+::: {.talk-card}
+### F2M - Fédération Francilienne de Mécanique ([website](https://www.bing.com/search?q=F2M+francilienne+de+mecanique&cvid=585d09229d2d499988553f59e7dda8ec&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQg5Njk2ajBqOagCCLACAQ&FORM=ANAB01&PC=DCTS))
+*Ile-de-France, France, 2023 & 2024*
+
+**Title 1:** Multiscale modelling of the muscle tissue.
+
+**Title 2:** Modelling the apparent viscoelastic behaviour of passive muscle tissue under confined compression using a poroelastic framework.
+
+**Authors:** [T. Lavigne](index.qmd), *et al.*
+
+:::
+
+
+## {{< iconify ion:easel >}} &nbsp;  Co-organised Symposiums and Mini-Conferences
+:::: {style='margin-top: 2em;'}
+::::
+
+
+
+::: {.talk-card}
+### Organised FEniCSx-GMSH tutorials at I2M Bordeaux ([website](https://www.biomecanique.org/fr/notre-congres-annuel/historique-congres/219-2021-46e-congres-sb))
+*Talence, France, September 2024*
+
+**Title:** Tutorials for the install and use of FEniCSx.
+
+**Authors:** [T. Lavigne](index.qmd), G. Sciumè, S. Urcun, M. Abbad Andaloussi.
+
+
+:::: {.columns}
+
+::: {.column width="80pt"}
+
+::: {.button}
+
+[<iconify-icon icon="ion:easel" aria-label="Code"></iconify-icon> Website](https://th0maslavigne.github.io/FEniCSx_GMSH_tutorials/README.html){.button target="_blank"}
+
+:::
+
+:::
+
+
+::::
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:code" aria-label="Code"></iconify-icon> Code 2](https://github.com/AlexandreDabySeesaram/shape_registration){.button target="_blank"}
+
+:::
+:::
+
+
+
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](Resources/Documents/Presentations/RICAM/main.html){.button target="_blank"}
+
+:::
+:::
+
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-regular:file" aria-label="Code"></iconify-icon> Abstract](https://www.oeaw.ac.at/ricam/detail/event/group-seminar-computational-methods-for-pdes-11){.button target="_blank"}
+
+::: 
+:::
+
+-->

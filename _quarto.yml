@@ -11,9 +11,11 @@ project:
     - "carousel.js"
   output-dir: docs
 
+
+# https://icon-sets.iconify.design/ion/?icon-filter=social
 website:
-  page-navigation: true
   back-to-top-navigation: true
+  page-navigation: true
   bread-crumbs: true
   open-graph: true
   title: "Thomas Lavigne"
@@ -25,7 +27,20 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: News.qmd
+        text: News 
+      - text: Research
+        menu:
+          - href: Research.qmd
+            text: Projects
+          - href: Publication.qmd
+            text: Publications
+          - href: Talks.qmd
+            text: Talks
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Education.qmd
+        text: Academic & Research Appointments
       - text: CV
         menu:
         - text: CV
@@ -33,8 +48,10 @@ website:
         - text: Narrative CV
           href: Resources/documents/Narrative_CV_Lavigne.pdf
         target: _blank
-      - icon: github
+      - text: "{{< iconify ion:logo-github >}}"
         href: https://github.com/Th0masLavigne
+      - text: "{{< iconify ion:flame-sharp >}}"
+        href: https://th0maslavigne.github.io/FEniCSx_GMSH_tutorials/README.html
   # navbar:
   #   background: primary
   #   search: true
@@ -95,6 +112,7 @@ website:
         <a href="https://quarto.org/">Built with Quarto</a>
       </small>
 
+  # reader-mode: if side bar allows to hide
   # reader-mode: true
   # repo-url: https://github.com/Th0masLavigne/Resume.git
   # repo-actions: [edit, source, issue]

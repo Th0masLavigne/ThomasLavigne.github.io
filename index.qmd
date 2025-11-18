@@ -100,7 +100,7 @@ As part of the biomechanical team of the [Legato Team](https://sites.google.com/
 
 You can learn more about my background in my <a href="Resources/documents/CV.pdf">[CV]</a>. 
 
-:::: {style='margin-top: 1em;'}
+:::: {style='margin-top: 2em;'}
 ::::
 
 ::: {.line}
@@ -126,6 +126,8 @@ You can learn more about my background in my <a href="Resources/documents/CV.pdf
 :::: -->
 
 <!-- <iframe width="100%" height="550" src="Resources/AR/3D_lung_AR.html"></IFRAME> -->
+
+
 
 :::{.carousel}
 <div class="carousel-slide">

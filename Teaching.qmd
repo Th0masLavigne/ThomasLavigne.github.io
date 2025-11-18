@@ -1,0 +1,103 @@
+---
+title: Teaching activities
+bibliography: Resources/biblio/biblio_web.bib
+# image: Resources/images/ETA_background - Copie.jpeg
+toc: false
+# about:
+  # template: broadside
+format:
+  html:
+    page-layout: full
+---
+
+### Teaching in [BME](https://www.bme-paris.com/) Program and Apprentices at Ecole National Supérieure d'Arts et Métiers Paris
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](Resources/images/ensam.jpg){width="70%" fig-align="left"}
+:::
+
+::: {.column width="50%"}
+<div style="margin-top: 4%;">
+- **2022 - 2025** 
+  - L3: Mathematics, 
+  - M1: Mechanics, 
+  - M2: Dynamics, 
+        Informatics,
+        Experimental Methods.
+</div>
+:::
+
+::::
+
+### Tutored sessions for students in difficulty at École Normale Supérieure Paris Saclay
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<div style="margin-top: 12%;">
+- **2019 - 2020** 
+  - Physics, Mathematics, Mechanics, Practical Works, Reporting methods.  
+</div>
+
+:::
+
+::: {.column width="50%"}
+
+![](Resources/images/ens.jpg){width="60%" fig-align="right"}
+
+
+:::
+
+::::
+
+
+### Classe Préparatoire aux grandes écoles
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+![](Resources/images/livre_prepa.jpg){width="80%" fig-align="center"}
+
+:::
+
+::: {.column width="75%"}
+
+:::: {style='margin-top: 7em;'}
+::::
+
+- Physique-chimie PSI-PSI* Concours X, ENS, CentraleSupélec, Mines-Ponts, CCINP
+  - Writing a **[physics book](https://www.editions-ellipses.fr/accueil/16845-31310-oraux-corriges-et-commentes-de-physique-chimie-psi-2e-edition-9782340111981.html#/1-format_disponible-broche)** for undergraduate students (**Classes Préparatoires aux Grandes Écoles**)
+  - **Physics** problems, **corrections**, and **comments**, helping students prepare for their entrance exams to prestigious universities (French "Grandes Écoles").
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](Resources/images/hoche.jpg){width="80%" fig-align="center" style="margin-top: -2%;"}
+:::
+
+
+::: {.column width="75%"}
+- **2018 - 2020**: Oral examiner in class preparing for competitive national entrance exams (Physics, Chemistry and Engineering Science) -- Lycée Hoche, Versailles, France
+:::
+
+::::
+
+
+
+### Advanced-level courses
+
+
+
+I designed notebooks about **FEniCSx** and **gmsh** for finite elemnt modelling and their installation (locally, using docker or spack for HPC). These are available on my github and at this [link]().
+
+* [**FEniCSx & GMSH Tutorial Website (v0.9.0)**](https://th0maslavigne.github.io/FEniCSx_GMSH_tutorials/README.html) 
+* [**FEniCSx & GMSH Tutorial Repository (v0.9.0)**](https://github.com/Th0masLavigne/FEniCSx_GMSH_tutorials.git) 

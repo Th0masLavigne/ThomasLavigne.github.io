@@ -4,7 +4,7 @@ BODY {
 	margin: 0px;
 	border: 0px;
 	padding: 0px;
-	background-color: rgb(23, 15, 57);
+	background-color: rgb(60, 53, 91);
 	color: fff;
 	font-size: 12px;
 }
@@ -13,7 +13,7 @@ BODY {
 /* classe css de la page*/
 #res_script{
 	border:0;
-	background-color:rgb(23, 15, 57);
+	background-color:rgb(60, 53, 91);
 	color:#fff;
 }
 
@@ -56,20 +56,20 @@ div.ZoneTitreResultat
 }
 
 .LienBibtexACoteFulltext, .DOI {
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
 }
 
 a:link { 
     text-decoration: none; 
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
   } 
   a:visited { 
     text-decoration: none; 
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
   } 
   a:hover { 
     text-decoration: underline; 
-    color:rgb(58, 70, 245);
+    color:rgb(85, 94, 217);
 	font-weight:bold;
 
   } 

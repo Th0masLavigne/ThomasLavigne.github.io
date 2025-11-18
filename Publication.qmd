@@ -1,0 +1,107 @@
+---
+title: Publications
+format:
+  html:
+    page-layout: full
+---
+
+:::: {style='margin-top: 3em;'}
+::::
+
+## {{< iconify fa-solid:book >}} &nbsp; Publications
+
+<div id="iframe-container"></div>
+
+## {{< iconify fa6-regular:pen-to-square >}} &nbsp; Work in progress
+
+### Porous Liquides: When the "Matrix" is a highly viscous fluid
+
+**Authors:** [T. Lavigne](index.qmd), G. Sciumè
+
+This is ongoing work. This section will be refined soon.
+
+
+
+## {{< iconify ion:share-social-sharp >}} &nbsp; Public outreach
+
+:::: {style='margin-top: 2em;'}
+::::
+
+
+### {{< iconify fa-solid:caret-right >}} Dissemination PhD Slides
+
+You can find here work in progress for dissemination of my PhD research to a broader public.
+
+:::: {.columns}
+
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides](Resources/presentations/ETA/ETA_v0.pptx){.button target="_blank"}
+
+:::
+:::
+
+::: {.column width="110pt"}
+
+::: {.button}
+
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Slides"></iconify-icon> Slides 3min](Resources/presentations/ETA/ETA_3_min_new_template.pptx){.button target="_blank"}
+
+:::
+
+:::
+
+::::
+
+
+### {{< iconify fa-solid:caret-right >}} Articles in Eduscol [French]
+
+#### [Caractérisation mécanique d'un tissu mou : le muscle passif](https://sti.eduscol.education.fr/si-ens-paris-saclay/ressources_pedagogiques/caracterisation-mecanique-dun-tissu-mou-le-muscle-passif) 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](Resources/images/muscle.png){ width="70%" fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+:::: {style='margin-top: 3em;'}
+::::
+
+This resource aims to present the scientific approach in biomechanics for modeling a soft tissue, namely muscle, at the macroscopic scale subjected to external loading (tension/compression). It was designed to complement the resource "Introduction to Biomechanics," which covers several important points of this discipline. The present resource is based on research work conducted during the authors' master's degree in biomechanics, as well as their master 1 internships, master 2 thesis, and pre-doctoral research year. [click here](https://sti.eduscol.education.fr/si-ens-paris-saclay/ressources_pedagogiques/caracterisation-mecanique-dun-tissu-mou-le-muscle-passif) 
+
+
+:::
+
+::::
+
+
+#### [Introduction à la Biomécanique](https://sti.eduscol.education.fr/si-ens-paris-saclay/ressources_pedagogiques/introduction-a-la-biomecanique) 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<div style="margin-top:30%;">
+![](Resources/images/Biomecanique.png){ width="70%" fig-align="center"}
+</div>
+:::
+
+::: {.column width="50%"}
+
+:::: {style='margin-top: 3em;'}
+::::
+
+Biomechanics, in its commonly accepted definition, consists of applying the tools, methods, and principles of mechanics to biological tissues and organs and their associated medical problems. It is an ancient discipline, studied since antiquity, but it became established as a distinct field in its own right during the 1960s and 1970s. As a varied discipline at the intersection of multiple subjects and methods, it is difficult to approach this theme using a single method. Thus, this resource aims to present the main challenges, their associated analyses and measurement tools, and their clinical applications. It is therefore not an exhaustive list of the topics studied, but an approach to the scientific methodology centered around the biomechanical question. First, we will present what historically founded the domain, namely the analysis of locomotion and movement. Second, we will focus on the effects of forces and deformations on tissues and the biological processes involved. Finally, we will consider the, primarily clinical, applications of the developed tools, and their place and potential in the current treatment of pathologies. The resource "Mechanical characterization of a soft tissue: passive muscle" specifically addresses the process of modeling a complex tissue using the tools of continuum mechanics. [click here](https://sti.eduscol.education.fr/si-ens-paris-saclay/ressources_pedagogiques/introduction-a-la-biomecanique) 
+
+
+
+:::
+
+::::
+
+
+
