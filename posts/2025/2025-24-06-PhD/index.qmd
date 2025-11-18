@@ -1,0 +1,33 @@
+---
+title: "ICCB 2025"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2025-09-10"
+categories: 
+  - "News"
+image: "defense3.jpg"
+# image: "VPH_2.jpg"
+---
+
+I successfully defended my PhD as part of a cotutelle program between Université du Luxembourg & Arts et Métiers ParisTech - École Nationale Supérieure d'Arts et Métiers (i-biomec I2M – Institut de Mécanique et d’Ingénierie de Bordeaux)
+
+My thesis, entitled *“Biomechanical Response of Human Skin: a Hierarchical Porous Media Framework”*, explored and evaluated a novel two-compartment porous model to capture the interaction between the mechanical behavior of soft tissues and microcirculatory response.
+
+This journey was made possible thanks to the support and mentorship of my supervisors:
+Stéphane P.A. Bordas (FLSW), Pierre-Yves Rohan and Giuseppe Sciumè.
+
+I’m also grateful to the jury and expert members for the rich and insightful discussions during the defence:
+Yohan Payan, Stéphane Avril, Christian Vincenot, Dr.-Ing. Silvia Budday, and Sébastien LAPORTE.
+
+A special thank you as well to our collaborating laboratories -Laboratoire de Biologie Tissulaire et Ingénierie thérapeutique (LBTI), Institut FEMTO-ST, Laboratoire de Mécanique Paris-Saclay)- whose contributions, especially on the experimental side, were essential. 
+
+Heartfelt thanks to the volunteers who participated in the experimental cohorts and to all the individuals who contributed to this PhD.
+
+Finally, I am honoured to have been proposed for the Pierre Béziers prize (ENSAM), Excellent Thesis Award (University of Luxembourg), the FNR Outstanding PhD Thesis, and the pre-selection for Prix Tarrach of *Les Amis du Luxembourg*.
+
+This work was supported by the Luxembourg National Research Fund (FNR) under grant n° 17013182.
+
+On to the next chapter!
+
+hashtag#Biomechanics hashtag#PorousMedia hashtag#SoftTissues hashtag#Microcirculation hashtag#CotutellePhD
+
+![](defense3.jpg){width="75%" fig-align="center"}

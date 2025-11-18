@@ -1,0 +1,12 @@
+---
+title: "ANR Rosaly: Simulation of the mechanical behavior of hydrogels"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2025-12-01"
+categories: 
+  - "Projects"
+image: "ROSALY.png"
+---
+
+During my postdoctoral position, I will focus on simulating the mechanical behavior of collagen hydrogels using poroelasticity models implemented in FEniCS. The core work involves using experimental data to identify the material’s mechanical properties based on its fabrication conditions. A key objective is the enhancement of these models to incorporate the complex influence of contractile cells within the gel, specifically including their mechanoperception response. Further development will integrate microstructural information to accurately describe how the collagen fibers move and reorient under mechanical load.
+
+More to come, stay tuned !

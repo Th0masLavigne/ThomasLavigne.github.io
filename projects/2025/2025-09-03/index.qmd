@@ -1,0 +1,13 @@
+---
+title: "ANR MATISSE: Simulation of porous liquids and HPC installations"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2025-09-03"
+categories: 
+  - "Projects"
+image: "I2M_logo.png"
+---
+
+I primarily focused on simulating the mechanical behavior of porous fluids (e.g., poroelastic models for fluids) using the advanced finite element software FEniCSx. In addition to leading these simulations, the Postdoc will provide essential computational and numerical support to four specific PhD students (S. Pastore, C. Cornillon, M. Laccour, and L. Liquette) to help them overcome technical hurdles in their research. A key institutional responsibility involves installing and configuring the FEniCSx environment on the available MCIA HPC (High-Performance Computing) cluster and creating a comprehensive installation and usage procedure document for the system.
+
+
+More info to come. Stay tuned !

@@ -3,7 +3,7 @@ title: "Projects"
 title-block-banner: false
 page-layout: full
 listing:
-  contents: posts
+  contents: projects
   sort: "date desc"
   type: default
   max-items: 50

@@ -1,0 +1,13 @@
+---
+title: "Numerical investigation of the time-dependent stress–strain mechanical behaviour of skeletal muscle tissue in the context of pressure ulcer prevention"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2021-03-01"
+categories: 
+  - "Projects"
+image: "indent.png"
+---
+
+
+This project focuses on the numerical investigation of the time-dependent stress-strain mechanical behaviour of skeletal muscle tissue. This research addresses a critical clinical challenge: the development of Pressure Ulcers (PU), specifically Deep Tissue Injury, which is primarily instigated by pressure-induced tissue strain. While existing literature often relies on simplified viscoelastic formulations, this work advances the field by developing sophisticated computational models that explicitly characterize the underlying physical mechanisms governing the tissue's time-dependent response under prolonged loading. The resulting biomechanical insights are essential for more accurately understanding the risk pathway and creating predictive tools to lead to the proactive prevention of Pressure Ulcer formation. [@Lavigne2022]
+
+![](indent.png){width="75%" fig-align="center"}

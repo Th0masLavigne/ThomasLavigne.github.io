@@ -1,0 +1,85 @@
+---
+title: "Poynting Effects in Pantographic Metamaterial Captured via Multiscale DVC"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2019-11-01"
+categories: 
+  - "Projects"
+image: "DVC.png"
+---
+
+This project provides a critical experimental analysis into the complex mechanical behavior of pantographic metamaterials, specifically seeking to understand how their architectured structure influences the Poynting effect—the coupling between torsion and axial deformation. Researchers employed a sophisticated multiscale Digital Volume Correlation (DVC) methodology to analyze an in situ torsion test on a 3D-printed Inconel pantograph, utilizing micro-computed tomography to acquire detailed 3D volumes of the sample across a large range of angular amplitudes (up to 180°). The innovative technique was adapted to overcome challenges such as low internal contrast and large rotations, allowing for the precise measurement of displacement and strain fields at both the macroscopic and mesoscopic scales. This work not only confirmed the existence of the Poynting effect at the macrolevel but, more critically, provided novel quantitative data on its emergence at the mesoscopic scale—revealing local contraction mechanisms in the hinges. The resulting kinematic data serves as an invaluable foundation for validating and calibrating advanced constitutive models for these high-performance architectured materials. [@Auger2020]
+
+
+
+:::{.carousel}
+<div class="carousel-slide">
+  <img src="expe.png" alt="expe">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="mesh.png" alt="mesh">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="DVC.png" alt="DVC">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+:::
+
+:::{.carousel-nav}
+<span class="prev">&#10094;</span>
+<span class="next">&#10095;</span>
+:::
+
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>
+

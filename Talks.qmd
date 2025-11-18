@@ -33,6 +33,36 @@ format:
 
 **Authors:** [T. Lavigne](index.qmd), *et al.*
 
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:code" aria-label="Code"></iconify-icon> Code](https://github.com/Th0masLavigne/Skin_porous_modelling.git){.button target="_blank"}
+
+:::
+
+:::
+
+::: {.column width="85pt"}
+::: {.button}
+[<iconify-icon icon="fa-solid:code" aria-label="Code"></iconify-icon> Code 2](https://github.com/Th0masLavigne/2-compartment-poromechanical-and-LDF-measurement.git){.button target="_blank"}
+
+:::
+:::
+
+:::
+
+::: {.talk-card}
+###  Interpore BeneLux 2024 ([website](https://events.interpore.org/event/55/))
+*Esch-sur-Alzette, Luxembourg, 11th of April 2024*
+
+**Title:** Poromechanics to account for the time-dependent behaviour of human skin during extension tests.
+
+**Authors:** [T. Lavigne](index.qmd), *et al.*
+
+**Title:** Image informed breast tumour models to predict the outcome of neoadjuvant chemotherapy.
+
+**Authors:** R. Collet, [T. Lavigne](index.qmd), *et al.*
+
 :::
 
 ::: {.talk-card}
@@ -194,11 +224,19 @@ format:
 ### F2M - Fédération Francilienne de Mécanique ([website](https://www.bing.com/search?q=F2M+francilienne+de+mecanique&cvid=585d09229d2d499988553f59e7dda8ec&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQg5Njk2ajBqOagCCLACAQ&FORM=ANAB01&PC=DCTS))
 *Ile-de-France, France, 2023 & 2024*
 
-**Title 1:** Multiscale modelling of the muscle tissue.
+**Title 1:** Multiscale Modelling of the muscle, 13𝑡ℎ of February 2023, F2M - Jussieu Paris
 
-**Title 2:** Modelling the apparent viscoelastic behaviour of passive muscle tissue under confined compression using a poroelastic framework.
+**Title 2:** Modélisation poro-élastique de la peau humaine in vivo,4𝑡ℎ of April 2024, F2M - Polytechnique Saclay
 
 **Authors:** [T. Lavigne](index.qmd), *et al.*
+
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:code" aria-label="Code"></iconify-icon> Code](https://github.com/Th0masLavigne/Skin_porous_modelling.git){.button target="_blank"}
+
+:::
+:::
 
 :::
 
@@ -220,7 +258,7 @@ format:
 
 :::: {.columns}
 
-::: {.column width="80pt"}
+::: {.column width="100pt"}
 
 ::: {.button}
 
@@ -228,6 +266,14 @@ format:
 
 :::
 
+:::
+
+::: {.column width="85pt"}
+::: {.button}
+
+[<iconify-icon icon="fa-solid:code" aria-label="Code"></iconify-icon> Code](https://github.com/Th0masLavigne/FEniCSx_GMSH_tutorials.git){.button target="_blank"}
+
+:::
 :::
 
 

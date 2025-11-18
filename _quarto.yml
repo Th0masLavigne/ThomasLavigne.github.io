@@ -2,6 +2,8 @@ project:
   type: website
   resources:
     - "Resources"
+    - "posts"
+    - "projects"
     - "style.css"
     - "style_site.scss"
     - "style_site_dark.scss"

@@ -27,7 +27,7 @@ format:
 <div style="font-size: 0.9em; color: #A3A2A2; margin-top: 0%;">
 * _At:_ [Laboratoire de Mécaniqude des Solides](https://lms.ip-paris.fr/presentation), Institut Polytechnique de Paris, UMR 7649, CNRS
 * _With:_ Jean-Marc Allain
-* _Project_: The Postdoctoral Researcher (M/F) will focus on simulating the mechanical behavior of collagen hydrogels using poroelasticity models implemented in FEniCS. The core work involves using experimental data to identify the material's mechanical properties based on its fabrication conditions. A key objective is the enhancement of these models to incorporate the complex influence of contractile cells within the gel, specifically including their mechanoperception response. Further development will integrate microstructural information to accurately describe how the collagen fibers move and reorient under mechanical load.
+* _Project_: During my postdoctoral position, I will focus on simulating the mechanical behavior of collagen hydrogels using poroelasticity models implemented in FEniCS. The core work involves using experimental data to identify the material’s mechanical properties based on its fabrication conditions. A key objective is the enhancement of these models to incorporate the complex influence of contractile cells within the gel, specifically including their mechanoperception response. Further development will integrate microstructural information to accurately describe how the collagen fibers move and reorient under mechanical load.
 </div>
 :::
 
@@ -44,8 +44,8 @@ format:
 **09/2025-11/2025 - Post Doctoral Researcher ANR MATISSE: Simulation of porous liquids and HPC installations**
 <div style="font-size: 0.9em; color: #A3A2A2; margin-top: 0%;">
 * _At:_ [Institut de mécanique et d'ingénierie](https://www.i2m.u-bordeaux.fr/), Université de Bordeaux INP, UMR 5295, CNRS
-* _With:_ Jean-Marc Allain
-* _Project_: The Postdoctoral Researcher will primarily focus on simulating the mechanical behavior of porous fluids (e.g., poroelastic models for fluids) using the advanced finite element software FEniCSx. In addition to leading these simulations, the Postdoc will provide essential computational and numerical support to four specific PhD students (S. Pastore, C. Cornillon, M. Laccour, and L. Liquette) to help them overcome technical hurdles in their research. A key institutional responsibility involves installing and configuring the FEniCSx environment on the available MCIA HPC (High-Performance Computing) cluster and creating a comprehensive installation and usage procedure document for the system.
+* _With:_ Giuseppe Sciumè
+* _Project_: I primarily focused on simulating the mechanical behavior of porous fluids (e.g., poroelastic models for fluids) using the advanced finite element software FEniCSx. In addition to leading these simulations, the Postdoc will provide essential computational and numerical support to four specific PhD students (S. Pastore, C. Cornillon, M. Laccour, and L. Liquette) to help them overcome technical hurdles in their research. A key institutional responsibility involves installing and configuring the FEniCSx environment on the available MCIA HPC (High-Performance Computing) cluster and creating a comprehensive installation and usage procedure document for the system.
 </div>
 </div>
 :::
