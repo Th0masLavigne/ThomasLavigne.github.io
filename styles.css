@@ -20,7 +20,7 @@
   /* Make the image take up 100% of the slide container's width */
   width: 100%; 
   /* Make the image take up 100% of the slide container's height (same as .carousel) */
-  height: 5cm; 
+  height: 15cm; 
   /* How the image should fit into the container: */
   /* 'cover': Fills the container, cropping if necessary (maintains aspect ratio). */
   /* 'contain': Ensures the whole image is visible, leaving space if needed (maintains aspect ratio). */

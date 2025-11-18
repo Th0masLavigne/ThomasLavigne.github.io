@@ -27,7 +27,11 @@ website:
         text: Home
       - about.qmd
       - text: CV
-        href: Resources/documents/CV.pdf
+        menu:
+        - text: CV
+          href: Resources/documents/CV.pdf
+        - text: Narrative CV
+          href: Resources/documents/Narrative_CV_Lavigne.pdf
         target: _blank
       - icon: github
         href: https://github.com/Th0masLavigne
