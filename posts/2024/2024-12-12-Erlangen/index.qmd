@@ -1,0 +1,85 @@
+---
+title: "Visiting Brainiacs laboratory at FAU"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2024-12-12"
+categories: 
+  - "News"
+image: "furth.jpeg"
+# image: "VPH_2.jpg"
+---
+
+
+Thanks to collaborations with S. Budday, we had the distinct opportunity to spend a productive week visiting the new, state-of-the-art laboratory of the [brainiacs](https://www.lkm.tf.fau.eu/research/) research team at the University of Erlangen-Nuremberg (FAU). This highly collaborative visit allowed us to be warmly received by the group and gain in-depth exposure to their advanced work in brain experimentation and computational modeling. The trip served to strengthen research ties and provided invaluable insights into cutting-edge methodologies for both the physical study and the numerical simulation of complex brain mechanics.
+
+We're excited about the possibility of reconducting this initiative in the future!
+
+
+:::{.carousel}
+<div class="carousel-slide">
+  <img src="furth.jpeg" alt="PhD">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+<div class="carousel-slide">
+  <img src="Erlangen.jpeg" alt="PhD">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+<div class="carousel-slide">
+  <img src="nuremberg.jpeg" alt="PhD">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+:::
+
+:::{.carousel-nav}
+<span class="prev">&#10094;</span>
+<span class="next">&#10095;</span>
+:::
+
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>

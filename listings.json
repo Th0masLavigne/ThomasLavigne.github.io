@@ -2,15 +2,22 @@
   {
     "listing": "/News.html",
     "items": [
-      "/posts/2025/2025-09-10-ICCB/index.html",
-      "/posts/2024/2024-10-22-RICAM/index.html"
+      "/posts/2025/2025-24-06-PhD/index.html",
+      "/posts/2024/2024-12-12-Erlangen/index.html",
+      "/posts/2024/2024-09-10-FEniCSx/index.html",
+      "/posts/2024/2024-02-06-Most_Cited/index.html"
     ]
   },
   {
     "listing": "/Research.html",
     "items": [
-      "/posts/2025/2025-09-10-ICCB/index.html",
-      "/posts/2024/2024-10-22-RICAM/index.html"
+      "/projects/2025/2025-12-01/index.html",
+      "/projects/2025/2025-09-03/index.html",
+      "/projects/2022/2022-09-01-PhD/index.html",
+      "/projects/2021/2021-09-01/index.html",
+      "/projects/2021/2021-03-01/index.html",
+      "/projects/2020/2020-03-01/index.html",
+      "/projects/2019/2019-11-01/index.html"
     ]
   }
 ]

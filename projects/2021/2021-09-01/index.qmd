@@ -1,0 +1,86 @@
+---
+title: "Soft Tissue Modelling: Breast application and theoretical developments"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2021-09-01"
+categories: 
+  - "Projects"
+image: "breast_scheme.png"
+---
+
+
+This area of research is dedicated to the advanced biomechanical characterization of soft tissues and bodies, particularly under complex conditions involving large deformation and contact. The project is built on two inter-connected technical pillars. First, we developed and evaluated a Digital Volume Correlation (DVC) pipeline to accurately measure 3D kinematic fields within soft tissues under significant displacements. This innovative methodology, which utilizes X-ray tomography for detailed imaging, has critical clinical applications, such as enabling the precise mapping of ex vivo breast deformations to improve the accuracy of radiotherapy planning by assisting with tumor repositioning. Complementary to this, the project also designed a novel optimization framework that employs an inverse+forward hyper-elasticity formulation to simultaneously identify the unknown material parameters and the contact traction field of soft bodies from measured deformed geometries. By rigorously integrating computational modeling with experimental data, this work provides powerful tools for a complete and robust understanding of soft tissue mechanics in various physiological and loading scenarios. [@Lavigne2023b],[@Lavigne2022b]
+
+
+
+:::{.carousel}
+<div class="carousel-slide">
+  <img src="breast_scheme.png" alt="expe">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="mesh.png" alt="mesh">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="result.png" alt="DVC">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+:::
+
+:::{.carousel-nav}
+<span class="prev">&#10094;</span>
+<span class="next">&#10095;</span>
+:::
+
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>
+

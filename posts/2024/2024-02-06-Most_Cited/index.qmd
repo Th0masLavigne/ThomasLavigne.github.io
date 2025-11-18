@@ -1,0 +1,73 @@
+---
+title: "Prix Most cited paper : 2 normaliens du DER-Génie Mécanique à l’honneur"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2024-02-06"
+categories: 
+  - "News"
+image: "2024_01_Most-cited-paper.jpg"
+# image: "VPH_2.jpg"
+---
+
+
+"Rédigé en 2020 par deux normaliens Patrick AUGER et Thomas LAVIGNE, avec la participation de Mario SPAGNUILO et Francesco DELL'ISOLA et sous la direction de François HILD et Benjamin SMANIOTTO, l’article "Poynting Effects in Pantographic Metamaterials Captured via Multiscale DVC" a été distingué par le prix "Most cited Paper" dans la revue Journal of Strain Analysis for Engineering Design." [here](https://ens-paris-saclay.fr/actualite/prix-most-cited-paper-2-normaliens-du-der-genie-mecanique-lhonneur)
+
+
+:::{.carousel}
+<div class="carousel-slide">
+  <img src="2024_01_Most-cited-paper.jpg" alt="PhD">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+:::
+
+:::{.carousel-nav}
+<span class="prev">&#10094;</span>
+<span class="next">&#10095;</span>
+:::
+
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>

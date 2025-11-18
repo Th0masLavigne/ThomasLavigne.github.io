@@ -15,52 +15,414 @@
 <link>https://ThomasLavigne.github.io/Research.html</link>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 10 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>ICCB 2025</title>
-  <link>https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/</link>
+  <title>ANR Rosaly: Simulation of the mechanical behavior of hydrogels</title>
+  <link>https://ThomasLavigne.github.io/projects/2025/2025-12-01/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This week, my co-authors <a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a> and <a href="https://mgenet.github.io/">Martin Genet</a>, my collegues Jean-Marc Allain, Felipe Álvarez-Barrientos, Haotian Xiao, and Julien Bonnafé, and I attended the <a href="https://iccb2025.org/">2025 ICCB</a> conference. <a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a> and I both presented our work towards getting a real-time digital twin of the lungs <span class="citation" data-cites="daby-seesaramFiniteElementNeural2025 skardovaFiniteElementNeural2025">(<strong>daby-seesaramFiniteElementNeural2025?</strong>; <strong>skardovaFiniteElementNeural2025?</strong>)</span>.</p>
-<p>Meanwhile, <a href="https://mgenet.github.io/">Martin Genet</a> chaired the mini-symposium “<strong>MS08 - 1: Modeling the respiratory system: current trends and clinical opportunities</strong>” he co-organised.</p>
-<p><img src="https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/ICCB_2.jpg" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%"> <img src="https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/ICCB_3.jpeg" class="img-fluid quarto-figure quarto-figure-center" style="width:75.0%"></p>
+<p>During my postdoctoral position, I will focus on simulating the mechanical behavior of collagen hydrogels using poroelasticity models implemented in FEniCS. The core work involves using experimental data to identify the material’s mechanical properties based on its fabrication conditions. A key objective is the enhancement of these models to incorporate the complex influence of contractile cells within the gel, specifically including their mechanoperception response. Further development will integrate microstructural information to accurately describe how the collagen fibers move and reorient under mechanical load.</p>
+<p>More to come, stay tuned !</p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>News</category>
-  <guid>https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/</guid>
-  <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://ThomasLavigne.github.io/posts/2025/2025-09-10-ICCB/ICCB_1.jpg" medium="image" type="image/jpeg"/>
+  <category>Projects</category>
+  <guid>https://ThomasLavigne.github.io/projects/2025/2025-12-01/</guid>
+  <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/projects/2025/2025-12-01/ROSALY.png" medium="image" type="image/png" height="61" width="144"/>
 </item>
 <item>
-  <title>Invited speaker at the RICAM of the Austrian Academy of Sciences</title>
-  <link>https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/</link>
+  <title>ANR MATISSE: Simulation of porous liquids and HPC installations</title>
+  <link>https://ThomasLavigne.github.io/projects/2025/2025-09-03/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>Today I was invited to give a seminar at the Johann Radon Institute for Computational and Applied Mathematics (<a href="https://www.oeaw.ac.at/ricam/">RICAM</a>) of the Austrian Academy of Sciences, in the Computational Methods for PDEs group. I had the opportunity to present our work on reduced-order modelling and recent hybridisation of the PGD with the Finite Element Neural Network Interpolation (FENNI) framework <span class="citation" data-cites="daby-seesaramFiniteElementNeural2024 skardovaFiniteElementNeural2024">(<strong>daby-seesaramFiniteElementNeural2024?</strong>; <strong>skardovaFiniteElementNeural2024?</strong>)</span>.</p>
-<p>The shown exemples used our open-source code, <a href="https://pypi.org/project/NeuROM-Py/">NeuROM</a></p>
+<p>I primarily focused on simulating the mechanical behavior of porous fluids (e.g., poroelastic models for fluids) using the advanced finite element software FEniCSx. In addition to leading these simulations, the Postdoc will provide essential computational and numerical support to four specific PhD students (S. Pastore, C. Cornillon, M. Laccour, and L. Liquette) to help them overcome technical hurdles in their research. A key institutional responsibility involves installing and configuring the FEniCSx environment on the available MCIA HPC (High-Performance Computing) cluster and creating a comprehensive installation and usage procedure document for the system.</p>
+<p>More info to come. Stay tuned !</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Projects</category>
+  <guid>https://ThomasLavigne.github.io/projects/2025/2025-09-03/</guid>
+  <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/projects/2025/2025-09-03/I2M_logo.png" medium="image" type="image/png" height="50" width="144"/>
+</item>
+<item>
+  <title>AFR-FNR 17013182: Unraveling Mechano-Biological Couplings: Towards Personalized Medicine and Targeted Pressure Ulcer Prevention</title>
+  <link>https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>For years, research models studied two risk factors separately — how tissue is compressed and how blood circulates within it. My <a href="Resources/documents/Thomas_PhD_Manuscript_A4_Final.pdf">PhD</a> work combines them in a unified porous model, developed and evaluated alongside new experiments on human patients. Think of the skin as a living sponge filled with tiny blood vessels. When pressure is applied, it’s gradually squeezed, cutting off oxygen — and when released, blood rushes back in. This new model reveals the subtle interplay between mechanical stress and biological response (ischemia and hyperemia), helping us understand when and how damage starts. This open-source work marks a significant step forward in understanding and preventing pressure ulcers — and moves us closer to truly personalized medicine. <span class="citation" data-cites="Lavigne2023">(Lavigne et al. 2023)</span>,<span class="citation" data-cites="Lavigne2024">(Lavigne et al. 2024)</span>,<span class="citation" data-cites="Lavigne2025b">(Lavigne, Urcun, et al. 2025)</span>,<span class="citation" data-cites="lavigne2025synthetic">(Lavigne, Afanador, et al. 2025)</span></p>
+<div class="carousel">
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/ETA_background.jpeg" alt="PhD">
+<div class="carousel-titlecaption">
+<b>PhD Graphical Abstract</b> <br> <span style="font-size: smaller;font-weight: 300">Coupling biology in mechanics through porous modelling for Human skin.</span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/LDF_Expe.JPG" alt="experiment">
+<div class="carousel-titlecaption">
+<b>Experiment</b> <br> <span style="font-size: smaller;font-weight: 300">Laser Doppler Flowmetry to capture the microcirculatory response.</span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/expe.png" alt="experiment">
+<div class="carousel-titlecaption">
+<b>Experimental setup</b> <br> <span style="font-size: smaller;font-weight: 300">Laser Doppler Flowmetry to capture the microcirculatory response.</span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/multiscale.png" alt="multiscale">
+<div class="carousel-titlecaption">
+<b>The skin as a sponge</b> <br> <span style="font-size: smaller;font-weight: 300">Porous representation of the skin: multiscale.</span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/model.png" alt="model">
+<div class="carousel-titlecaption">
+<b>Hierarchical Porous Model</b> <br> <span style="font-size: smaller;font-weight: 300">Porous model as a brick</span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/HD_AUGMENTED_RESOLUTION (2).JPG" alt="poro">
+<div class="carousel-titlecaption">
+<b>Porous-like viewcut of the skin.</b> <br> <span style="font-size: smaller;font-weight: 300">AI generated.</span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/defense3.jpg" alt="defense">
+<div class="carousel-titlecaption">
+<b>PhD Defense</b> <br> <span style="font-size: smaller;font-weight: 300">PhD Defense</span>
+</div>
+</div>
+</div>
+<div class="carousel-nav">
+<p><span class="prev">❮</span> <span class="next">❯</span></p>
+</div>
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-lavigne2025synthetic" class="csl-entry">
+Lavigne, Thomas, Camilo Andrés Suarez Afanador, Anas Obeidat, and Stéphane Urcun. 2025. <span>“Synthetic Porous Microstructures: Automatic Design, Simulation, and Permeability Analysis.”</span> <a href="https://arxiv.org/abs/2502.14518">https://arxiv.org/abs/2502.14518</a>.
+</div>
+<div id="ref-Lavigne2025b" class="csl-entry">
+Lavigne, Thomas, Stéphane Urcun, Bérengère Fromy, Audrey Josset-Lamaugarny, Alexandre Lagache, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Pierre-Yves Rohan, and Giuseppe Sciumè. 2025. <span>“Hierarchical Poromechanical Approach to Investigate the Impact of Mechanical Loading on Human Skin Micro-Circulation.”</span> <em>International Journal for Numerical Methods in Biomedical Engineering</em>. <a href="https://doi.org/10.1002/cnm.70066">https://doi.org/10.1002/cnm.70066</a>.
+</div>
+<div id="ref-Lavigne2024" class="csl-entry">
+Lavigne, Thomas, Stéphane Urcun, Emmanuelle Jacquet, Jérôme Chambert, Aflah Elouneg, Camilo A. Suarez-Afanador, Stéphane P. A. Bordas, Giuseppe Sciumè, and Pierre-Yves Rohan. 2024. <span>“Poromechanical Modelling of the Time-Dependent Response of in Vivo Human Skin During Extension.”</span> <em>International Journal for Numerical Methods in Biomedical Engineering</em>. International Journal for Numerical Methods in Biomedical Engineering. <a href="https://doi.org/10.48550/ARXIV.2412.07374">https://doi.org/10.48550/ARXIV.2412.07374</a>.
+</div>
+<div id="ref-Lavigne2023" class="csl-entry">
+Lavigne, Thomas, Stéphane Urcun, Pierre-Yves Rohan, Giuseppe Sciumè, Davide Baroli, and Stéphane P. A. Bordas. 2023. <span>“Single and Bi-Compartment Poro-Elastic Model of Perfused Biological Soft Tissues: FEniCSx Implementation and Tutorial.”</span> <em>Journal of the Mechanical Behavior of Biomedical Materials</em> 143 (July): 105902. <a href="https://doi.org/10.1016/j.jmbbm.2023.105902">https://doi.org/10.1016/j.jmbbm.2023.105902</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>Projects</category>
+  <guid>https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/</guid>
+  <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/projects/2022/2022-09-01-PhD/ETA_background.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Soft Tissue Modelling: Breast application and theoretical developments</title>
+  <link>https://ThomasLavigne.github.io/projects/2021/2021-09-01/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This area of research is dedicated to the advanced biomechanical characterization of soft tissues and bodies, particularly under complex conditions involving large deformation and contact. The project is built on two inter-connected technical pillars. First, we developed and evaluated a Digital Volume Correlation (DVC) pipeline to accurately measure 3D kinematic fields within soft tissues under significant displacements. This innovative methodology, which utilizes X-ray tomography for detailed imaging, has critical clinical applications, such as enabling the precise mapping of ex vivo breast deformations to improve the accuracy of radiotherapy planning by assisting with tumor repositioning. Complementary to this, the project also designed a novel optimization framework that employs an inverse+forward hyper-elasticity formulation to simultaneously identify the unknown material parameters and the contact traction field of soft bodies from measured deformed geometries. By rigorously integrating computational modeling with experimental data, this work provides powerful tools for a complete and robust understanding of soft tissue mechanics in various physiological and loading scenarios. <span class="citation" data-cites="Lavigne2023b">(Lavigne, Bordas, and Lengiewicz 2023)</span>,<span class="citation" data-cites="Lavigne2022b">(Lavigne et al. 2022)</span></p>
+<div class="carousel">
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2021/2021-09-01/breast_scheme.png" alt="expe">
+<div class="carousel-titlecaption">
+<b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2021/2021-09-01/mesh.png" alt="mesh">
+<div class="carousel-titlecaption">
+<b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2021/2021-09-01/result.png" alt="DVC">
+<div class="carousel-titlecaption">
+<b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
+</div>
+</div>
+</div>
+<div class="carousel-nav">
+<p><span class="prev">❮</span> <span class="next">❯</span></p>
+</div>
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-Lavigne2023b" class="csl-entry">
+Lavigne, T., S. P. A. Bordas, and J. Lengiewicz. 2023. <span>“Identification of Material Parameters and Traction Field for Soft Bodies in Contact.”</span> <em>Computer Methods in Applied Mechanics and Engineering</em> 406 (March): 115889. <a href="https://doi.org/10.1016/j.cma.2023.115889">https://doi.org/10.1016/j.cma.2023.115889</a>.
+</div>
+<div id="ref-Lavigne2022b" class="csl-entry">
+Lavigne, T., A. Mazier, A. Perney, S. P. A. Bordas, F. Hild, and J. Lengiewicz. 2022. <span>“Digital Volume Correlation for Large Deformations of Soft Tissues: Pipeline and Proof of Concept for the Application to Breast Ex Vivo Deformations.”</span> <em>Journal of the Mechanical Behavior of Biomedical Materials</em> 136 (December): 105490. <a href="https://doi.org/10.1016/j.jmbbm.2022.105490">https://doi.org/10.1016/j.jmbbm.2022.105490</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>Projects</category>
+  <guid>https://ThomasLavigne.github.io/projects/2021/2021-09-01/</guid>
+  <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/projects/2021/2021-09-01/breast_scheme.png" medium="image" type="image/png" height="59" width="144"/>
+</item>
+<item>
+  <title>Numerical investigation of the time-dependent stress–strain mechanical behaviour of skeletal muscle tissue in the context of pressure ulcer prevention</title>
+  <link>https://ThomasLavigne.github.io/projects/2021/2021-03-01/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This project focuses on the numerical investigation of the time-dependent stress-strain mechanical behaviour of skeletal muscle tissue. This research addresses a critical clinical challenge: the development of Pressure Ulcers (PU), specifically Deep Tissue Injury, which is primarily instigated by pressure-induced tissue strain. While existing literature often relies on simplified viscoelastic formulations, this work advances the field by developing sophisticated computational models that explicitly characterize the underlying physical mechanisms governing the tissue’s time-dependent response under prolonged loading. The resulting biomechanical insights are essential for more accurately understanding the risk pathway and creating predictive tools to lead to the proactive prevention of Pressure Ulcer formation. <span class="citation" data-cites="Lavigne2022">(Lavigne et al. 2022)</span></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/RICAM.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://ThomasLavigne.github.io/projects/2021/2021-03-01/indent.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
+</figure>
+</div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-Lavigne2022" class="csl-entry">
+Lavigne, T., G. Sciumè, S. Laporte, H. Pillet, S. Urcun, B. Wheatley, and P-Y. Rohan. 2022. <span>“Société de Biomécanique Young Investigator Award 2021: Numerical Investigation of the Time-Dependent Stress–Strain Mechanical Behaviour of Skeletal Muscle Tissue in the Context of Pressure Ulcer Prevention.”</span> <em>Clinical Biomechanics</em> 93 (March): 105592. <a href="https://doi.org/10.1016/j.clinbiomech.2022.105592">https://doi.org/10.1016/j.clinbiomech.2022.105592</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>Projects</category>
+  <guid>https://ThomasLavigne.github.io/projects/2021/2021-03-01/</guid>
+  <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/projects/2021/2021-03-01/indent.png" medium="image" type="image/png" height="62" width="144"/>
+</item>
+<item>
+  <title>Simulink-Based Biomechanical Model of Neck Muscle Response and Concussion Risk in Rugby Impacts</title>
+  <link>https://ThomasLavigne.github.io/projects/2020/2020-03-01/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This research project, undertaken as an M1 Internship related to Antoine Knwebleski’s PhD, was dedicated to developing advanced biomechanical models to investigate head and neck dynamics during impact events, with a direct application to concussion prevention in sports such as rugby. The central technical task involved the creation and implementation of rheological muscle models for the cervical spine region within the MATLAB/Simulink simulation environment. These models were designed to accurately simulate the complex action of neck muscles during a sudden torso impact. The primary objective was to quantitatively assess the protective effect of muscle preactivation—the voluntary tensing of muscles prior to impact—on mitigating peak head and neck accelerations. By establishing a clearer understanding of this neuromuscular defense mechanism, the project delivers crucial simulated data essential for evaluating and optimizing existing concussion protocols, thereby advancing player safety in contact sports.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ThomasLavigne.github.io/projects/2020/2020-03-01/impact.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
 </figure>
 </div>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>News</category>
-  <guid>https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/</guid>
-  <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://ThomasLavigne.github.io/posts/2024/2024-10-22-RICAM/OAW.png" medium="image" type="image/png" height="73" width="144"/>
+  <category>Projects</category>
+  <guid>https://ThomasLavigne.github.io/projects/2020/2020-03-01/</guid>
+  <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/projects/2020/2020-03-01/impact.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Poynting Effects in Pantographic Metamaterial Captured via Multiscale DVC</title>
+  <link>https://ThomasLavigne.github.io/projects/2019/2019-11-01/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This project provides a critical experimental analysis into the complex mechanical behavior of pantographic metamaterials, specifically seeking to understand how their architectured structure influences the Poynting effect—the coupling between torsion and axial deformation. Researchers employed a sophisticated multiscale Digital Volume Correlation (DVC) methodology to analyze an in situ torsion test on a 3D-printed Inconel pantograph, utilizing micro-computed tomography to acquire detailed 3D volumes of the sample across a large range of angular amplitudes (up to 180°). The innovative technique was adapted to overcome challenges such as low internal contrast and large rotations, allowing for the precise measurement of displacement and strain fields at both the macroscopic and mesoscopic scales. This work not only confirmed the existence of the Poynting effect at the macrolevel but, more critically, provided novel quantitative data on its emergence at the mesoscopic scale—revealing local contraction mechanisms in the hinges. The resulting kinematic data serves as an invaluable foundation for validating and calibrating advanced constitutive models for these high-performance architectured materials. <span class="citation" data-cites="Auger2020">(Auger et al. 2020)</span></p>
+<div class="carousel">
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2019/2019-11-01/expe.png" alt="expe">
+<div class="carousel-titlecaption">
+<b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2019/2019-11-01/mesh.png" alt="mesh">
+<div class="carousel-titlecaption">
+<b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
+</div>
+</div>
+<div class="carousel-slide">
+<img src="https://ThomasLavigne.github.io/projects/2019/2019-11-01/DVC.png" alt="DVC">
+<div class="carousel-titlecaption">
+<b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
+</div>
+</div>
+</div>
+<div class="carousel-nav">
+<p><span class="prev">❮</span> <span class="next">❯</span></p>
+</div>
+<script>
+  let slideIndex = 0; // Start at 0 for array indexing
+  
+  // Function to show a specific slide (n is the index)
+  function showSlides(n) {
+    let slides = document.querySelectorAll(".carousel-slide");
+    
+    // Handle wrap-around
+    if (n >= slides.length) {slideIndex = 0} 
+    if (n < 0) {slideIndex = slides.length - 1}
+    
+    // Hide all slides and remove the active class
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].classList.remove("active");
+      slides[i].style.display = "none";
+    }
+    
+    // Show the current slide and add the active class
+    slides[slideIndex].classList.add("active");
+    slides[slideIndex].style.display = "block";
+  }
+
+  // Function to move to the next or previous slide
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Initial function call to show the first slide and set up listeners
+  document.addEventListener('DOMContentLoaded', () => {
+    // Check if the elements exist before adding listeners
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
+    
+    if (prevButton && nextButton) {
+        showSlides(slideIndex); // Show the first slide (index 0)
+
+        // Attach event listeners to the navigation buttons
+        prevButton.addEventListener('click', () => {
+          plusSlides(-1);
+        });
+        nextButton.addEventListener('click', () => {
+          plusSlides(1);
+        });
+    }
+  });
+</script>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-Auger2020" class="csl-entry">
+Auger, Patrick, Thomas Lavigne, Benjamin Smaniotto, Mario Spagnuolo, Francesco dell’Isola, and François Hild. 2020. <span>“Poynting Effects in Pantographic Metamaterial Captured via Multiscale DVC.”</span> <em>The Journal of Strain Analysis for Engineering Design</em> 56 (7): 462–77. <a href="https://doi.org/10.1177/0309324720976625">https://doi.org/10.1177/0309324720976625</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>Projects</category>
+  <guid>https://ThomasLavigne.github.io/projects/2019/2019-11-01/</guid>
+  <pubDate>Fri, 01 Nov 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://ThomasLavigne.github.io/projects/2019/2019-11-01/DVC.png" medium="image" type="image/png" height="84" width="144"/>
 </item>
 </channel>
 </rss>

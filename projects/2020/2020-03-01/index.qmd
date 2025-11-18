@@ -1,0 +1,12 @@
+---
+title: "Simulink-Based Biomechanical Model of Neck Muscle Response and Concussion Risk in Rugby Impacts"
+bibliography: ../../../Resources/biblio/biblio_web.bib
+date: "2020-03-01"
+categories: 
+  - "Projects"
+image: "impact.jpeg"
+---
+
+This research project, undertaken as an M1 Internship related to Antoine Knwebleski's PhD, was dedicated to developing advanced biomechanical models to investigate head and neck dynamics during impact events, with a direct application to concussion prevention in sports such as rugby. The central technical task involved the creation and implementation of rheological muscle models for the cervical spine region within the MATLAB/Simulink simulation environment. These models were designed to accurately simulate the complex action of neck muscles during a sudden torso impact. The primary objective was to quantitatively assess the protective effect of muscle preactivation—the voluntary tensing of muscles prior to impact—on mitigating peak head and neck accelerations. By establishing a clearer understanding of this neuromuscular defense mechanism, the project delivers crucial simulated data essential for evaluating and optimizing existing concussion protocols, thereby advancing player safety in contact sports.
+
+![](impact.jpeg){width="75%" fig-align="center"}
