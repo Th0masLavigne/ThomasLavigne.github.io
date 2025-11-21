@@ -1,6 +1,5 @@
 ---
 title: Thomas Lavigne, PHD
-keywords: ["Thomas Lavigne", "PhD", "biomécanique", "post-doctoral", "personal webpage", "mechanics", "biomechanics", "vascular", "coupling", "poromechanics", "hydrogel", "fenicsx", "simulation", "gmsh", "porous", "medium", "biomechanics", "CV", "Bordeaux", "Paris", "I2M", "LMS", "ENS", "Ecole normale supérieure Paris-Saclay", "ENSAM", "IBHGC", "website", "github", "links", "th0maslavigne", "thomaslavigne", "th0mas lavigne", "th0mas", "lavigne", "research", "doctoral", "post-doctoral", "Université du Luxembourg", "Luxembourg", "Legato", "Team", "Polytechnique"]
 image: Resources/images/profile_pic2.jpeg
 bibliography: Resources/biblio/biblio_web.bib
 toc: false
